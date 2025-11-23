@@ -51,6 +51,7 @@ This reduces manual effort and ensures fast, accurate, and consistent communicat
 ## 4. Output Screenshot
 
 > Replace the below placeholder with your actual screenshot of the Gmail received message.
+<img width="1776" height="816" alt="Screenshot 2025-11-23 115452" src="https://github.com/user-attachments/assets/16a5fdac-4641-4c37-971b-387ed407f44c" />
 
 ```md
 ![Output Screenshot](your-output-image.png)
