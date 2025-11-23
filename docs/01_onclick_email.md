@@ -1,8 +1,4 @@
-- singing to n8n
-- step 1 
-- step 2
-- step 3
-- step 4
+
 - # Attendance Email Automation – n8n Workflow Documentation
 
 ## 1. Problem Statement
@@ -47,7 +43,8 @@ This reduces manual effort and ensures fast, accurate, and consistent communicat
 
 ## 3. Implementation Screenshot
 
-![Workflow Screenshot](sandbox:/mnt/data/Screenshot%202025-11-23%20111605.png)
+<img width="1177" height="554" alt="Screenshot 2025-11-23 111605" src="https://github.com/user-attachments/assets/e286f672-239d-4ce1-9341-872420f3e686" />
+
 
 ---
 
