@@ -56,6 +56,6 @@ This automation helps in creating real-time conversational AI experiences inside
 ## 4. Output Screenshot
 
 > Replace this placeholder with your actual chat output screenshot.
+<img width="1841" height="856" alt="Screenshot 2025-11-23 115133" src="https://github.com/user-attachments/assets/bebb08c1-e397-4cf1-9864-34263f3aa172" />
 
 ```md
-![Output Screenshot](your-chat-output.png)
