@@ -40,6 +40,7 @@ The workflow contains a simple trigger and a Gmail node to send a predefined mes
 ## 4. Output Screenshot
 
 > Replace this placeholder with your actual screenshot of the Gmail message received.
+<img width="1725" height="641" alt="Screenshot 2025-11-23 115650" src="https://github.com/user-attachments/assets/e3409beb-6490-40c8-a818-2eed84c6afde" />
 
 ```md
 ![Output Screenshot](your-output-email.png)
